@@ -6,13 +6,13 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Cats in Hats",
-  "SYMBOL": "CH",
-  "MAX_SUPPLY": 9999,
-  "WEI_COST": 25,
-  "DISPLAY_COST": 25,
+  "NFT_NAME": "PictoPus",
+  "SYMBOL": "PP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/cats-in-hats",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/0xF0C1E2d84F8e02b815076c7318055Acaf782731C",
   "SHOW_BACKGROUND": true
 }
