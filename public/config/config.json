@@ -1,18 +1,20 @@
 {
-  "CONTRACT_ADDRESS": "0xF0C1E2d84F8e02b815076c7318055Acaf782731C",
-  "SCAN_LINK": "https://polygonscan.com/token/0xF0C1E2d84F8e02b815076c7318055Acaf782731C",
+  "CONTRACT_ADDRESS": "0x69890c1c7ff10c7153ce3de25596a99e5552a33e",
+  "SCAN_LINK": "https://polygonscan.com/token/0x69890c1c7ff10c7153ce3de25596a99e5552a33e",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "PictoPus",
-  "SYMBOL": "PP",
-  "MAX_SUPPLY": 10000,
-  "WEI_COST": 1,
-  "DISPLAY_COST": 1,
+  "NFT_NAME": "HEMETA NFT",
+  "SYMBOL": "HEMETA",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/0xF0C1E2d84F8e02b815076c7318055Acaf782731C",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hemeta-nft",
   "SHOW_BACKGROUND": true
 }
+
+
