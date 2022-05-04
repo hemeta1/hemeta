@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x446F758468610b01d11bbD215DC5FFCAa79E72Bf",
-  "SCAN_LINK": "https://polygonscan.com/token/0x446F758468610b01d11bbD215DC5FFCAa79E72Bf",
+  "CONTRACT_ADDRESS": "0x12a3ecd55de986fcb754cb2c9ddbc1de74df6c6b",
+  "SCAN_LINK": "https://polygonscan.com/token/0x12a3ecd55de986fcb754cb2c9ddbc1de74df6c6b",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -9,8 +9,8 @@
   "NFT_NAME": "HEMETA NFT",
   "SYMBOL": "HEMETA",
   "MAX_SUPPLY": 9999999,
-  "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 0.1,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/hemeta-nft",
